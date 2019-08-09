@@ -1,0 +1,17 @@
+<!--左侧上-->
+                <div class="personage-l-t">
+                    <!--头像-->
+                    <a href="#" class="personage-l-t-pic-link"><figure class="personage-l-t-pic"><img src="https://www.51danbao.cn/pc/images/souYe_three.png" alt=""></figure></a>
+                    <!--名字-->
+                    <p class="personage-l-t-name">上午好! 桃酥里aa</p>
+                    <!--id-->
+                    <p class="personage-l-t-id">ID : 27851705</p>
+                    <!--会员等级-->
+                    <div class="member">
+                        <!-- <a href="https://www.51danbao.cn/index/user/grade.html"> -->
+                        <a href="" class="member_a">
+                            <img src="https://www.51danbao.cn/pc/images/putong.png">
+                            <span>普通会员</span>
+                        </a>
+                    </div>
+                </div>
